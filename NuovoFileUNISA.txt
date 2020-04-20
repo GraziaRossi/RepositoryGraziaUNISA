@@ -1,3 +1,4 @@
-Scrivo nel nuovo file!
+
 Aggiungo la seconda riga.
 Aggiungo la terza riga.
+Aggiungo la quarta riga tenendo conto che la prima è una riga vuota.
