@@ -17,6 +17,7 @@ public class Stampa1 {
 		// TODO Auto-generated method stub
 		
 		String s="*****______ Questa è la Stampa1: "+this.s;
+		System.out.println("Modifica da GraziaUnisa");
 		
 		return s;
 	}
