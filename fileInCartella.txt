@@ -1,0 +1,4 @@
+File creato direttamente nella cartella dopo aver fatto l'import del progetto sul pc aziendale.
+Ho anche fatto il git switch.
+Il branch l'ho cercato con git branch -a
+e il branch l'ho ottenuto con git checkout <nomebranch>
